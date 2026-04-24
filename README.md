@@ -1,7 +1,7 @@
 ## 名前
 楊謙鈺(やんちぇんゆ)
 # プロフィール写真
-![Profile](./profile-qianyu.jpg)
+<img src="profile-qianyu.jpg" width="300">
 ## 近況
 今年から中学生になりました
 ## 略歴
