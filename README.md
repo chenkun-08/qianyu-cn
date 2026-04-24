@@ -1,6 +1,10 @@
 
 ## 名前
 楊謙鈺(やんちぇんゆ)
+# 自己紹介
+中学1年生ですがプログラミングが好きです
+主にHTMLでWEB開発をします
+コードはChatGPTを使って生成します
 ## 近況
 今年から中学生になりました
 ## 略歴
@@ -17,6 +21,6 @@
 - [My OS](https://github.com/qiany-cn/my-os)
 - [Intercom Mock](https://github.com/intercom-mock)
 - [My API](https://github.com/qianyu-cn/my-api)
-# 連絡先
+## 連絡先
 **メール**: [qianyuyang.vip@gmail.com](mailto:qianyuyang.vip@gmail.com)
 #### ©︎ 2026 Qianyu Yang
