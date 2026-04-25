@@ -1,14 +1,15 @@
-# 自己紹介 
-## 名前 
-やん　ちぇんゆ
-## 私の顔 
-<img src="profile-qianyu.jpg" width="250">
+# 👋 My GitHub Profile
 
-## 誕生日 
-2013年8月15日
-## 好きな食べ物 
-- ラーメン
-- 寿司
-- 餃子
-- ## みんなへ一言
-よろしくお願いします!
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile"
+    alt="Typing SVG"
+  />
+</p>
+
+---
+
+## About Me
+- Web Developer
+- HTML / CSS / JavaScript
+- UI好き（未来系に寄りがち）
